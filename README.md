@@ -9,6 +9,7 @@ There will be both English and Chinese versions.
 * MIT
   * How to Speak, IAP 2018, Prof. Patrick Winston
   * Artificial Intelligence, Fall 2010, Prof. Patrick Winston
+  * Introduction to Algorithms, Spring 2020, Prof. Erik Demaine, Dr. Jason Ku, Prof. Justin Solomon
   * Computer Systems Security, Fall 2014, Prof. Nickolai Zeldovich
   * Computation Structures, Spring 2017, Prof. Chris Terman
   * Distributed Systems, Spring 2020, Prof. Prof. Robert Morris 
