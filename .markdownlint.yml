@@ -1,0 +1,8 @@
+{
+  "default": true,
+  "MD007": { "indent": 4 },
+  "MD013": { "code_block_line_length": 100, "line_length": 100},
+  "MD033": { "allowed_elements": [ "br" ]},
+  "no-hard-tabs": false,
+  "whitespace": false
+}
