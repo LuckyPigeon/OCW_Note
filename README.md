@@ -2,8 +2,6 @@
 
 Notes for some brilliant Open Course Wares, below are the titles but not limit to them.
 
-There will be both English and Chinese versions.
-
 ## University OCW
 
 * MIT
