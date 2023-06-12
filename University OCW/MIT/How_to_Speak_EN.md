@@ -1,0 +1,1 @@
+![](../../Images/How to Speak/quality.png)
