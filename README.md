@@ -1,6 +1,6 @@
-[![markdown-lint](https://github.com/LuckyPigeon/OCW_Note/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/LuckyPigeon/OCW_Note/actions/workflows/markdown-lint.yml)
-
 # OCW Note
+
+[![markdown-lint](https://github.com/LuckyPigeon/OCW_Note/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/LuckyPigeon/OCW_Note/actions/workflows/markdown-lint.yml)
 
 Notes for some brilliant Open Course Wares, below are the titles but not limit to them.
 
