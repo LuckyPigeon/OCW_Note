@@ -7,9 +7,10 @@ There will be both English and Chinese versions.
 ## University OCW
 
 * MIT
-  * How to Speak, IAP 2018, Prof. Patrick Winston
+  * [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY), IAP 2018, Prof. Patrick Winston
   * Artificial Intelligence, Fall 2010, Prof. Patrick Winston
   * Introduction to Algorithms, Spring 2020, Prof. Erik Demaine, Dr. Jason Ku, Prof. Justin Solomon
+  * Design and Analysis of Algorithms, Spring 2015, Prof. Erik Demaine, Prof. Srinivas Devadas, Prof. Nancy Ann Lynch
   * Computer Systems Security, Fall 2014, Prof. Nickolai Zeldovich
   * Computation Structures, Spring 2017, Prof. Chris Terman
   * Distributed Systems, Spring 2020, Prof. Prof. Robert Morris 
