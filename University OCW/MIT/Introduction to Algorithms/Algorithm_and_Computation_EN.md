@@ -66,7 +66,7 @@ fundamental operations.
     * O(n lg n): linear logarithmic time
     * O(n^C): polynomial time
 
-![Efficiency and Complexity](../../../Images/Introduction_to_Algorithms/Efficiency%20and%20Complexity.jpg)
+![Efficiency and Complexity](../../../Images/Introduction%20to%20Algorithms/Efficiency%20and%20Complexity.jpg)
 
 ### Model of Computation
 
